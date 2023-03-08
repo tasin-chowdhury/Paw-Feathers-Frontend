@@ -65,7 +65,11 @@ body {
 }
 
 .card-img-top {
-    padding: 10%;
+    padding: 0%;
+}
+
+.card-deck .radius {
+    border-radius: 10%;
 }
 
 /* .top-right {
